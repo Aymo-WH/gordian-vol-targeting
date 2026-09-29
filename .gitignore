@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+data/train/
+data/test/
+models/
+!models/.keep
+.env
+node_modules/
+venv/
+.vscode/
+.idea/
+Thumbs.db
+.gradio/
+
+# Notebooks stay local except the pipeline notebook, which is committed with outputs cleared
+*.ipynb
+!VolGordian.ipynb
+.ipynb_checkpoints/

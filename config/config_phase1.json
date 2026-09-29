@@ -1,0 +1,14 @@
+{
+  "tickers": [
+    "SPY",
+    "QQQ",
+    "XLK",
+    "XLF",
+    "XLE",
+    "BTC-USD",
+    "ETH-USD",
+    "TQQQ"
+  ],
+  "transaction_fee_percent": 0.0001,
+  "data_window_days": 730
+}
